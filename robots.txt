@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://utdypakiksjoz.github.io/sitemap.xml
